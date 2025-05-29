@@ -25,7 +25,7 @@ import string
 import streamlit as st
 import time
 import json
-from streamlit-lottie import st_lottie
+from streamlit_lottie import st_lottie
 import requests
 
 
